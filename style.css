@@ -1,0 +1,17 @@
+#deck {
+        width: 52em;
+        background-color: purple;
+        color: white;
+        padding: 1em;
+        text-align: center;
+      }
+
+      .card {
+        width: 4em;
+        display: inline-block;
+      }
+
+      .swapping {
+        background-color: yellow;
+        color: black;
+      }
