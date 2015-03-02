@@ -15,3 +15,6 @@
         background-color: yellow;
         color: black;
       }
+button {
+  display: inline;
+}
